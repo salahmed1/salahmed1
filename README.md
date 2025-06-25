@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlic3k4eWs0d2tkaWFjeWZma3ZvbTVpc2J3ZjA0dnIzdGZ6cng2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIUGyKAg/giphy.gif" width="250" />
 </div>
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-<h3 align="center">A passionate junior web developer from [Your Location].</h3>
+<h1 align="center">Hi there, I'm Salah Eddine 👋</h1>
+<h3 align="center">A passionate junior web developer from Agadir, Morocco.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
@@ -28,14 +28,13 @@
   I'm a junior web developer with a strong foundation in front-end and back-end technologies. I'm passionate about building beautiful, functional, and user-friendly websites and applications. I'm a quick learner and always eager to take on new challenges and expand my skillset.
 </p>
 
-- 🔭 I’m currently working on **[Name of a Project You're Proud Of]**.
-- 🌱 I’m currently learning **[A New Technology or Skill]**.
-- 👯 I’m looking to collaborate on **[Types of Projects You're Interested In]**.
-- 🤔 I’m looking for help with **[A Concept or Technology You're Struggling With]**.
-- 💬 Ask me about **[Topics You're Confident Discussing]**.
-- 📫 How to reach me: **[Your Preferred Contact Method]**.
-- 😄 Pronouns: **[Your Pronouns]**.
-- ⚡ Fun fact: **[A Fun Fact About Yourself]**.
+- 🔭 I’m currently working on **a personal portfolio website**.
+- 🌱 I’m currently learning **Next.js and TypeScript**.
+- 👯 I’m looking to collaborate on **exciting front-end projects**.
+- 💬 Ask me about **React, JavaScript, and modern CSS**.
+- 📫 How to reach me: **[your.email@example.com]**.
+- 😄 Pronouns: **He/Him**.
+- ⚡ Fun fact: **I can solve a Rubik's cube in under a minute!**
 
 ---
 
@@ -57,8 +56,8 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iam-salahmed&show_icons=true&theme=radical" alt="iam-salahmed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-salahmed&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -66,15 +65,15 @@
 ### 📌 Pinned Repositories
 
 <p align="center">
-  <a href="https://github.com/your-username/your-repo-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo-1&theme=radical" />
+  <a href="https://github.com/iam-salahmed/your-repo-1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-salahmed&repo=your-repo-1&theme=radical" />
   </a>
-  <a href="https://github.com/your-username/your-repo-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo-2&theme=radical" />
+  <a href="https://github.com/iam-salahmed/your-repo-2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-salahmed&repo=your-repo-2&theme=radical" />
   </a>
 </p>
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-salahmed&theme=radical" alt="GitHub Streak" />
 </p>
