@@ -17,30 +17,34 @@
 
 ## 🎭 **About Me**
 
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  mindset: string[];
-  currentFocus: string;
-}
+<div align="center">
+  
+### 🚀 **Salah Ahmed** | *Junior Full-Stack Developer*
+  
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=💻+Passionate+Full-Stack+Developer+from+Morocco;🎯+Transforming+Ideas+into+Digital+Reality;🌟+Clean+Code+%7C+Great+UX+%7C+Continuous+Learning;🚀+Building+Tomorrow's+Web+Experiences+Today" alt="About Me Animation" />
 
-const salah: Developer = {
-  name: "Salah Ahmed",
-  role: "Junior Full-Stack Developer",
-  location: "Building from Morocco 🇲🇦",
-  mindset: [
-    "Clean Code Advocate",
-    "User Experience Obsessed",
-    "Continuous Learner",
-    "Problem Solver"
-  ],
-  currentFocus: "Creating seamless digital experiences"
-};
+</div>
 
-console.log("Welcome to my digital workspace! 🚀");
-```
+<div align="center">
+
+| 🌍 **Location** | 🎯 **Focus** | 🧠 **Mindset** | 📚 **Learning** |
+|:---------------:|:------------:|:--------------:|:---------------:|
+| Morocco 🇲🇦 | Full-Stack Innovation | Problem Solver | Never Stopping |
+
+</div>
+
+<div align="center">
+  
+**🔥 What Drives Me:**
+  
+<img src="https://img.shields.io/badge/💡_Creating-Digital_Experiences-FF6B6B?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/🎨_Designing-User_Interfaces-4ECDC4?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/⚡_Building-Scalable_Solutions-00D9FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/🚀_Learning-New_Technologies-FFD93D?style=for-the-badge&labelColor=0D1117" />
+
+</div>
+
+> *"I believe in writing code that not only works perfectly but also tells a story of creativity, efficiency, and user-centered design."*
 
 ---
 
@@ -79,24 +83,71 @@ console.log("Welcome to my digital workspace! 🚀");
 
 ## 🎯 **Current Mission**
 
-```bash
-# What I'm working on
-$ git status
-On branch main
-Your branch is up to date with 'origin/main'
+<div align="center">
 
-Currently building:
-✨ Modern web applications with React & Next.js
-🔧 Scalable backend systems with Node.js & Laravel  
-📱 Responsive UI/UX with Tailwind CSS
-🚀 Learning advanced TypeScript & System Design
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=50&lines=🎯+MISSION+CONTROL+ACTIVE" alt="Mission Header" />
 
-# Next commits
-$ git log --oneline -3
-abc123f feat: implement advanced authentication system
-def456g refactor: optimize database queries for better performance
-ghi789h docs: update project documentation
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🚀 **Currently Building**
+- 🎨 **Modern Web Apps** with React & Next.js
+- 🔧 **Robust APIs** with Node.js & Laravel
+- 📱 **Responsive Designs** with Tailwind CSS
+- 🧠 **AI-Powered Features** for better UX
+
+</td>
+<td width="50%">
+
+### 📚 **Currently Learning**
+- 🔥 **Advanced TypeScript** for type safety
+- 🏗️ **System Design** patterns
+- 🐳 **Docker & DevOps** for deployment
+- ⚡ **Performance Optimization** techniques
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 📊 **Development Focus Areas**
+
 ```
+Frontend Development  ████████████████████████████████████████ 95%
+Backend Development   ███████████████████████████████████████  90%
+Database Management   ████████████████████████████████████     85%
+UI/UX Design         █████████████████████████████████████    88%
+DevOps & Deployment  ██████████████████████████████           75%
+```
+
+</div>
+
+<div align="center">
+
+### 🎯 **2025 Goals & Objectives**
+
+<img src="https://img.shields.io/badge/Goal_1-Master_TypeScript_&_Next.js-00D9FF?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Goal_2-Build_5+_Full--Stack_Projects-4ECDC4?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Goal_3-Contribute_to_Open_Source-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Goal_4-Launch_Personal_SaaS-FFD93D?style=for-the-badge&logo=rocket&logoColor=black" />
+
+</div>
+
+<div align="center">
+
+**🔥 Daily Routine**
+
+| ⏰ Time | 🎯 Activity | 💪 Status |
+|:-------:|:-----------:|:---------:|
+| 🌅 Morning | Learning New Tech | ✅ Active |
+| 🌞 Afternoon | Building Projects | 🚀 Coding |
+| 🌙 Evening | Open Source Contrib | 💡 Creating |
+
+</div>
 
 ---
 
