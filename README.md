@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🌟 Salah Ahmed
-### `Junior Full-Stack Developer`
+# 🌟 Mohamed SALAHDINE
+### `Full-Stack Developer`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Tomorrow's+Web+Experiences;Crafting+Code+with+Purpose+%26+Precision;React+%E2%9A%A1+Node.js+%E2%9A%A1+MongoDB+%E2%9A%A1+Laravel" alt="Typing Animation" />
 
