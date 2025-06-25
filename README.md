@@ -169,7 +169,3 @@ I'm always interested in connecting with fellow developers, potential collaborat
 </div>
 
 ---
-
-<div align="center">
-  <i>⭐️ From [iam-salahmed](https://github.com/iam-salahmed)</i>
-</div>
