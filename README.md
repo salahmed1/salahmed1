@@ -1,213 +1,175 @@
-<div align="center">
-
-# 🌟 Mohamed SALAHDINE
-### `Full-Stack Developer`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Tomorrow's+Web+Experiences;Crafting+Code+with+Purpose+%26+Precision;React+%E2%9A%A1+Node.js+%E2%9A%A1+MongoDB+%E2%9A%A1+Laravel" alt="Typing Animation" />
+# Hi there! I'm Mohamed SALAHDINE 👋
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🚀_Status-Building_the_Future-00D9FF?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/💻_Focus-Full--Stack_Innovation-FF6B6B?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/🎯_Mission-Code_Excellence-4ECDC4?style=for-the-badge&labelColor=0D1117" />
-</div>
-
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things)
+  
 </div>
 
 ---
 
-## 🎭 **About Me**
-
-<div align="center">
-  
-### 🚀 **Mohamed SALAHDINE** | *Full-Stack Developer*
-  
-
-</div>
-
-<div align="center">
-
-| 🌍 **Location** | 🎯 **Focus** | 🧠 **Mindset** | 📚 **Learning** |
-|:---------------:|:------------:|:--------------:|:---------------:|
-| Morocco 🇲🇦 | Full-Stack Innovation | Problem Solver | Never Stopping |
-
-</div>
-
-<div align="center">
-  
-**🔥 What Drives Me:**
-  
-<img src="https://img.shields.io/badge/💡_Creating-Digital_Experiences-FF6B6B?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/🎨_Designing-User_Interfaces-4ECDC4?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/⚡_Building-Scalable_Solutions-00D9FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/🚀_Learning-New_Technologies-FFD93D?style=for-the-badge&labelColor=0D1117" />
-
-</div>
+## 🚀 About Me
 
 > *"I believe in writing code that not only works perfectly but also tells a story of creativity, efficiency, and user-centered design."*
 
----
+I'm a passionate Full-Stack Developer from Morocco 🇲🇦, dedicated to creating digital experiences that inspire and empower users. With a strong foundation in both frontend and backend technologies, I love turning complex problems into simple, beautiful, and intuitive solutions.
 
-## 🛠️ **Tech Arsenal**
-
-<div align="center">
-
-### **Frontend Mastery**
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-
-### **Backend Power**
-<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,express,mongodb,mysql" />
-
-### **Development Tools**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm" />
-
-### **Currently Mastering**
-<img src="https://skillicons.dev/icons?i=nextjs,typescript,docker" />
-
-</div>
+- 🔭 Currently working on innovative web applications
+- 🌱 Always learning and exploring new technologies
+- 👯 Looking to collaborate on open source projects
+- 💬 Ask me about React, Node.js, Python, or anything tech-related
+- 📫 How to reach me: [your-email@example.com](mailto:salahmed.official@gmail.com)
+- ⚡ Fun fact: I debug with console.log and I'm not ashamed of it! 😄
 
 ---
 
-## 📈 **GitHub Analytics**
+## 🛠️ Tech Stack & Tools
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+### Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iam-salahmed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-salahmed&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iam-salahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-salahmed&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
-</div>
-
-
-## 🎯 **Current Mission**
-
-<div align="center">
-
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🚀 **Currently Building**
-- 🎨 **Modern Web Apps** with React & Next.js
-- 🔧 **Robust APIs** with Node.js & Laravel
-- 📱 **Responsive Designs** with Tailwind CSS
-- 🧠 **AI-Powered Features** for better UX
-
-</td>
-<td width="50%">
-
-### 📚 **Currently Learning**
-- 🔥 **Advanced TypeScript** for type safety
-- 🏗️ **System Design** patterns
-- 🐳 **Docker & DevOps** for deployment
-- ⚡ **Performance Optimization** techniques
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 📊 **Development Focus Areas**
-
-```
-Frontend Development  ████████████████████████████████████████ 95%
-Backend Development   ███████████████████████████████████████  90%
-Database Management   ████████████████████████████████████     85%
-UI/UX Design         █████████████████████████████████████    88%
-DevOps & Deployment  ██████████████████████████████           75%
-```
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-salahmed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-
-### 🎯 **2025 Goals & Objectives**
-
-<img src="https://img.shields.io/badge/Goal_1-Master_TypeScript_&_Next.js-00D9FF?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Goal_2-Build_5+_Full--Stack_Projects-4ECDC4?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Goal_3-Contribute_to_Open_Source-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Goal_4-Launch_Personal_SaaS-FFD93D?style=for-the-badge&logo=rocket&logoColor=black" />
-
-</div>
-
-<div align="center">
-
-**🔥 Daily Routine**
-
-| ⏰ Time | 🎯 Activity | 💪 Status |
-|:-------:|:-----------:|:---------:|
-| 🌅 Morning | Learning New Tech | ✅ Active |
-| 🌞 Afternoon | Building Projects | 🚀 Coding |
-| 🌙 Evening | Open Source Contrib | 💡 Creating |
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-salahmed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🌟 **Featured Projects**
+## 🚀 Featured Projects
 
-<div align="center">
+### 🎨 Project 1: E-Commerce Platform
+**Tech Stack:** React, Node.js, MongoDB, Stripe API  
+**Description:** A full-featured e-commerce platform with user authentication, payment processing, and admin dashboard.  
+**Features:** 🛒 Shopping Cart, 💳 Payment Integration, 📱 Responsive Design, 🔐 Secure Authentication  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=netlify)](https://your-demo-link.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/iam-salahmed/project-repo)
 
-| Project | Tech Stack | Status | Demo |
-|---------|------------|--------|------|
-| 🎨 **Portfolio Website** | React, Tailwind, Framer Motion | ✅ Live | [View](https://github.com/iam-salahmed) |
-| 🛒 **E-Commerce Platform** | Laravel, MySQL, Bootstrap | 🚧 Building | [View](https://github.com/iam-salahmed) |
-| 📱 **Task Management App** | MERN Stack | 🚧 Building | [View](https://github.com/iam-salahmed) |
-| 🔗 **API Gateway** | Node.js, Express, MongoDB | 📋 Planning | [View](https://github.com/iam-salahmed) |
+### 📱 Project 2: Task Management App
+**Tech Stack:** React, Firebase, Material-UI  
+**Description:** A collaborative task management application with real-time updates and team collaboration features.  
+**Features:** ⚡ Real-time Updates, 👥 Team Collaboration, 📊 Progress Tracking, 🎨 Beautiful UI  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=netlify)](https://your-demo-link.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/iam-salahmed/project-repo)
 
-</div>
+### 🌐 Project 3: Portfolio Website
+**Tech Stack:** React, Tailwind CSS, Framer Motion  
+**Description:** A modern, responsive portfolio website showcasing my projects and skills with smooth animations.  
+**Features:** 🎭 Smooth Animations, 📱 Mobile-First Design, 🚀 Fast Loading, ✨ Interactive Elements  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=netlify)](https://your-demo-link.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/iam-salahmed/project-repo)
 
 ---
 
-## 🎨 **Code Philosophy**
-
-<div align="center">
-
-> *"I don't just write code, I architect digital experiences that inspire and empower users."*
+## 💼 My Development Philosophy
 
 ```javascript
 const myApproach = {
-  design: "Mobile-first, user-centric",
-  code: "Clean, maintainable, scalable",
-  testing: "Thorough and automated",
-  learning: "Never-ending journey",
-  collaboration: "Communication is key"
+  design: "Mobile-first, user-centric experiences",
+  code: "Clean, maintainable, and scalable solutions",
+  testing: "Thorough testing for reliable applications",
+  learning: "Continuous growth and skill development",
+  collaboration: "Clear communication and teamwork",
+  innovation: "Always exploring new technologies and best practices"
 };
+
+// Current Focus Areas
+const currentFocus = [
+  "Building scalable web applications",
+  "Exploring cloud technologies",
+  "Contributing to open source projects",
+  "Learning advanced React patterns",
+  "Mastering system design principles"
+];
 ```
 
+---
+
+## 🌟 What I'm Up To
+
+- 🔥 **Currently Building:** A SaaS application for small businesses
+- 📚 **Learning:** Advanced React patterns, GraphQL, and Microservices
+- 🎯 **Goals for 2024:** Contribute to 10 open source projects, Launch 2 major applications
+- 💡 **Open to:** Collaboration on innovative projects and freelance opportunities
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-salahmed&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
 
-## 🤝 **Let's Connect & Build Together**
+## 🏆 GitHub Trophies
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iam-salahmed&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-salahdine/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/salahmed111)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-Contact-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salahmed.official@gmail.com)
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in connecting with fellow developers, potential collaborators, and anyone passionate about technology. Feel free to reach out!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-salahdine/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/salahmed111)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salahmed.official@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
 
 </div>
 
 ---
 
 <div align="center">
-
-### 💭 **"Code is poetry written in logic"**
-
-<img src="https://komarev.com/ghpvc/?username=iam-salahmed&style=for-the-badge&color=00D9FF&label=Profile+Views" />
-
-**⭐ Star my repositories if you find them interesting!**
-
+  
+  ### 💭 Random Dev Quote
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  
+  ### 👀 Profile Views
+  ![](https://komarev.com/ghpvc/?username=iam-salahmed&color=blueviolet&style=for-the-badge)
+  
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" />
+  <i>⭐️ From [iam-salahmed](https://github.com/iam-salahmed)</i>
 </div>
