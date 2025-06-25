@@ -1,79 +1,165 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlic3k4eWs0d2tkaWFjeWZma3ZvbTVpc2J3ZjA0dnIzdGZ6cng2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIUGyKAg/giphy.gif" width="250" />
+
+# 🌟 Salah Ahmed
+### `Junior Full-Stack Developer`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Tomorrow's+Web+Experiences;Crafting+Code+with+Purpose+%26+Precision;React+%E2%9A%A1+Node.js+%E2%9A%A1+MongoDB+%E2%9A%A1+Laravel" alt="Typing Animation" />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🚀_Status-Building_the_Future-00D9FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/💻_Focus-Full--Stack_Innovation-FF6B6B?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🎯_Mission-Code_Excellence-4ECDC4?style=for-the-badge&labelColor=0D1117" />
 </div>
 
-<h1 align="center">Hi there, I'm Salah Eddine 👋</h1>
-<h3 align="center">A passionate junior web developer from Agadir, Morocco.</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-    <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://your-portfolio-website.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## 🎭 **About Me**
 
-<p>
-  I'm a junior web developer with a strong foundation in front-end and back-end technologies. I'm passionate about building beautiful, functional, and user-friendly websites and applications. I'm a quick learner and always eager to take on new challenges and expand my skillset.
-</p>
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  mindset: string[];
+  currentFocus: string;
+}
 
-- 🔭 I’m currently working on **a personal portfolio website**.
-- 🌱 I’m currently learning **Next.js and TypeScript**.
-- 👯 I’m looking to collaborate on **exciting front-end projects**.
-- 💬 Ask me about **React, JavaScript, and modern CSS**.
-- 📫 How to reach me: **[your.email@example.com]**.
-- 😄 Pronouns: **He/Him**.
-- ⚡ Fun fact: **I can solve a Rubik's cube in under a minute!**
+const salah: Developer = {
+  name: "Salah Ahmed",
+  role: "Junior Full-Stack Developer",
+  location: "Building from Morocco 🇲🇦",
+  mindset: [
+    "Clean Code Advocate",
+    "User Experience Obsessed",
+    "Continuous Learner",
+    "Problem Solver"
+  ],
+  currentFocus: "Creating seamless digital experiences"
+};
 
----
-
-### 🛠️ My Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iam-salahmed&show_icons=true&theme=radical" alt="iam-salahmed's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-salahmed&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+console.log("Welcome to my digital workspace! 🚀");
+```
 
 ---
 
-### 📌 Pinned Repositories
+## 🛠️ **Tech Arsenal**
 
-<p align="center">
-  <a href="https://github.com/iam-salahmed/your-repo-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-salahmed&repo=your-repo-1&theme=radical" />
-  </a>
-  <a href="https://github.com/iam-salahmed/your-repo-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-salahmed&repo=your-repo-2&theme=radical" />
-  </a>
-</p>
+<div align="center">
+
+### **Frontend Mastery**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+
+### **Backend Power**
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,express,mongodb,mysql" />
+
+### **Development Tools**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm" />
+
+### **Currently Mastering**
+<img src="https://skillicons.dev/icons?i=nextjs,typescript,docker" />
+
+</div>
+
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-salahmed&theme=radical" alt="GitHub Streak" />
-</p>
+## 📈 **GitHub Analytics**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iam-salahmed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-salahmed&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-salahmed&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+</div>
+
+---
+
+## 🎯 **Current Mission**
+
+```bash
+# What I'm working on
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'
+
+Currently building:
+✨ Modern web applications with React & Next.js
+🔧 Scalable backend systems with Node.js & Laravel  
+📱 Responsive UI/UX with Tailwind CSS
+🚀 Learning advanced TypeScript & System Design
+
+# Next commits
+$ git log --oneline -3
+abc123f feat: implement advanced authentication system
+def456g refactor: optimize database queries for better performance
+ghi789h docs: update project documentation
+```
+
+---
+
+## 🌟 **Featured Projects**
+
+<div align="center">
+
+| Project | Tech Stack | Status | Demo |
+|---------|------------|--------|------|
+| 🎨 **Portfolio Website** | React, Tailwind, Framer Motion | ✅ Live | [View](https://github.com/iam-salahmed) |
+| 🛒 **E-Commerce Platform** | Laravel, MySQL, Bootstrap | 🚧 Building | [View](https://github.com/iam-salahmed) |
+| 📱 **Task Management App** | MERN Stack | 🚧 Building | [View](https://github.com/iam-salahmed) |
+| 🔗 **API Gateway** | Node.js, Express, MongoDB | 📋 Planning | [View](https://github.com/iam-salahmed) |
+
+</div>
+
+---
+
+## 🎨 **Code Philosophy**
+
+<div align="center">
+
+> *"I don't just write code, I architect digital experiences that inspire and empower users."*
+
+```javascript
+const myApproach = {
+  design: "Mobile-first, user-centric",
+  code: "Clean, maintainable, scalable",
+  testing: "Thorough and automated",
+  learning: "Never-ending journey",
+  collaboration: "Communication is key"
+};
+```
+
+</div>
+
+---
+
+## 🤝 **Let's Connect & Build Together**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-Contact-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 **"Code is poetry written in logic"**
+
+<img src="https://komarev.com/ghpvc/?username=iam-salahmed&style=for-the-badge&color=00D9FF&label=Profile+Views" />
+
+**⭐ Star my repositories if you find them interesting!**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" />
+</div>
