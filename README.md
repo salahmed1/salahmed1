@@ -19,9 +19,8 @@
 
 <div align="center">
   
-### 🚀 **Salah Ahmed** | *Junior Full-Stack Developer*
+### 🚀 **Mohamed SALAHDINE** | *Full-Stack Developer*
   
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=💻+Passionate+Full-Stack+Developer+from+Morocco;🎯+Transforming+Ideas+into+Digital+Reality;🌟+Clean+Code+%7C+Great+UX+%7C+Continuous+Learning;🚀+Building+Tomorrow's+Web+Experiences+Today" alt="About Me Animation" />
 
 </div>
 
@@ -79,13 +78,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-salahmed&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
 </div>
 
----
 
 ## 🎯 **Current Mission**
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=50&lines=🎯+MISSION+CONTROL+ACTIVE" alt="Mission Header" />
 
 </div>
 
@@ -190,10 +187,10 @@ const myApproach = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-salahdine/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/salahmed111)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-Contact-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salahmed.official@gmail.com)
 
 </div>
 
