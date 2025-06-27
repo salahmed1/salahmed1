@@ -59,15 +59,15 @@ I'm a passionate Full-Stack Developer from Morocco 🇲🇦, dedicated to creati
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iam-salahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=salahmed1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-salahmed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahmed1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-salahmed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salahmed1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -78,19 +78,19 @@ I'm a passionate Full-Stack Developer from Morocco 🇲🇦, dedicated to creati
 **Tech Stack:** React, Node.js, MongoDB, Stripe API  
 **Description:** A full-featured e-commerce platform with user authentication, payment processing, and admin dashboard.  
 **Features:** 🛒 Shopping Cart, 💳 Payment Integration, 📱 Responsive Design, 🔐 Secure Authentication  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=netlify)](https://your-demo-link.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/iam-salahmed/project-repo)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=netlify)](https://your-demo-link.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/salahmed1/project-repo)
 
 ### 📱 Project 2: Task Management App
 **Tech Stack:** React, Firebase, Material-UI  
 **Description:** A collaborative task management application with real-time updates and team collaboration features.  
 **Features:** ⚡ Real-time Updates, 👥 Team Collaboration, 📊 Progress Tracking, 🎨 Beautiful UI  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=netlify)](https://your-demo-link.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/iam-salahmed/project-repo)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=netlify)](https://your-demo-link.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/salahmed1/project-repo)
 
 ### 🌐 Project 3: Portfolio Website
 **Tech Stack:** React, Tailwind CSS, Framer Motion  
 **Description:** A modern, responsive portfolio website showcasing my projects and skills with smooth animations.  
 **Features:** 🎭 Smooth Animations, 📱 Mobile-First Design, 🚀 Fast Loading, ✨ Interactive Elements  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=netlify)](https://your-demo-link.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/iam-salahmed/project-repo)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=netlify)](https://your-demo-link.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/salahmed1/project-repo)
 
 ---
 
@@ -130,7 +130,7 @@ const currentFocus = [
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-salahmed&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salahmed1&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -138,7 +138,7 @@ const currentFocus = [
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iam-salahmed&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=salahmed1&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -164,7 +164,7 @@ I'm always interested in connecting with fellow developers, potential collaborat
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
   
   ### 👀 Profile Views
-  ![](https://komarev.com/ghpvc/?username=iam-salahmed&color=blueviolet&style=for-the-badge)
+  ![](https://komarev.com/ghpvc/?username=salahmed1&color=blueviolet&style=for-the-badge)
   
 </div>
 
