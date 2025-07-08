@@ -118,14 +118,6 @@ const currentFocus = [
 
 ---
 
-## 🌟 What I'm Up To
-
-- 🔥 **Currently Building:** A SaaS application for small businesses
-- 📚 **Learning:** Advanced React patterns, GraphQL, and Microservices
-- 🎯 **Goals for 2024:** Contribute to 10 open source projects, Launch 2 major applications
-- 💡 **Open to:** Collaboration on innovative projects and freelance opportunities
-
----
 
 ## 📈 Activity Graph
 
@@ -135,13 +127,6 @@ const currentFocus = [
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salahmed1&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 🤝 Let's Connect!
 
@@ -160,8 +145,6 @@ I'm always interested in connecting with fellow developers, potential collaborat
 
 <div align="center">
   
-  ### 💭 Random Dev Quote
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
   
   ### 👀 Profile Views
   ![](https://komarev.com/ghpvc/?username=salahmed1&color=blueviolet&style=for-the-badge)
