@@ -97,27 +97,7 @@ I'm a passionate Full-Stack Developer from Morocco 🇲🇦, dedicated to creati
 
 ---
 
-## 💼 My Development Philosophy
 
-```javascript
-const myApproach = {
-  design: "Mobile-first, user-centric experiences",
-  code: "Clean, maintainable, and scalable solutions",
-  testing: "Thorough testing for reliable applications",
-  learning: "Continuous growth and skill development",
-  collaboration: "Clear communication and teamwork",
-  innovation: "Always exploring new technologies and best practices"
-};
-
-// Current Focus Areas
-const currentFocus = [
-  "Building scalable web applications",
-  "Exploring cloud technologies",
-  "Contributing to open source projects",
-  "Learning advanced React patterns",
-  "Mastering system design principles"
-];
-```
 
 ---
 
