@@ -22,8 +22,6 @@ I'm a passionate Full-Stack Developer from Morocco 🇲🇦, dedicated to creati
 - 👯 Looking to collaborate on open source projects
 - 💬 Ask me about React, Node.js, Python, or anything tech-related
 - 📫 How to reach me: [salahmed.official@gmail.com](mailto:salahmed.official@gmail.com)
-- ⚡ Fun fact: I debug with console.log and I'm not ashamed of it! 😄
-
 ---
 
 ## 🛠️ Tech Stack & Tools
