@@ -13,8 +13,6 @@ Hi there! I'm Mohamed SALAHDINE 👋
 
 ## 🚀 About Me
 
-> *"I believe in writing code that not only works perfectly but also tells a story of creativity, efficiency, and user-centered design."*
-
 I'm a passionate Full-Stack Developer from Morocco 🇲🇦, dedicated to creating digital experiences that inspire and empower users. With a strong foundation in both frontend and backend technologies, I love turning complex problems into simple, beautiful, and intuitive solutions.
 
 - 🔭 Currently working on innovative web applications
