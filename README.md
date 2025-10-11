@@ -74,23 +74,35 @@ I'm a passionate Full-Stack Developer from Morocco 🇲🇦, dedicated to creati
 ## 🚀 Featured Projects
 
 ### 🎨 Project 1: E-Commerce Platform
+<!-- Add a cool screenshot or GIF of your project here! -->
+<!-- ![E-Commerce Platform Demo](./images/ecommerce-demo.gif) -->
+
 **Tech Stack:** React, Node.js, MongoDB, Stripe API  
-**Description:** A full-featured e-commerce platform with user authentication, payment processing, and admin dashboard.  
+**Description:** A full-featured e-commerce platform built to master complex state management and secure payment processing. Features user authentication, a shopping cart, a full admin dashboard, and Stripe integration.  
 **Features:** 🛒 Shopping Cart, 💳 Payment Integration, 📱 Responsive Design, 🔐 Secure Authentication  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=netlify)](https://your-demo-link.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/salahmed1/project-repo)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=netlify)](REPLACE_WITH_YOUR_ECOMMERCE_DEMO_LINK) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](REPLACE_WITH_YOUR_ECOMMERCE_REPO_LINK)
+
+---
 
 ### 📱 Project 2: Task Management App
+<!-- Add a cool screenshot or GIF of your project here! -->
+<!-- ![Task App Demo](./images/task-app-demo.gif) -->
+
 **Tech Stack:** React, Firebase, Material-UI  
-**Description:** A collaborative task management application with real-time updates and team collaboration features.  
+**Description:** A collaborative task management application designed to explore real-time database functionality with Firebase. Allows for team collaboration, progress tracking, and instant updates across all users.  
 **Features:** ⚡ Real-time Updates, 👥 Team Collaboration, 📊 Progress Tracking, 🎨 Beautiful UI  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=netlify)](https://your-demo-link.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/salahmed1/project-repo)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=netlify)](REPLACE_WITH_YOUR_TASK_APP_DEMO_LINK) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](REPLACE_WITH_YOUR_TASK_APP_REPO_LINK)
+
+---
 
 ### 🌐 Personal Portfolio Website
+<!-- Add a cool screenshot or GIF of your project here! -->
+<!-- ![Portfolio Demo](./images/portfolio-demo.gif) -->
+
 **Tech Stack:** React, Vite, CSS Modules, Netlify (CI/CD)  
-**Description:** A dynamic, fully responsive portfolio with a futuristic neon aesthetic, migrated from vanilla JS to a modular React architecture.  
+**Description:** A dynamic, fully responsive portfolio with a futuristic neon aesthetic, migrated from vanilla JS to a modular and performant React architecture.  
 **Features:** 🧩 Modular Architecture, 📱 Fully Responsive, 🚀 Performance Optimized, ✨ Interactive UI  
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=netlify)](https://salahmed.netlify.app/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/salahmed1/react-portfolio)
----
 
 
 
