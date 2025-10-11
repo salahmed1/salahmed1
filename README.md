@@ -85,12 +85,11 @@ I'm a passionate Full-Stack Developer from Morocco 🇲🇦, dedicated to creati
 **Features:** ⚡ Real-time Updates, 👥 Team Collaboration, 📊 Progress Tracking, 🎨 Beautiful UI  
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=netlify)](https://your-demo-link.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/salahmed1/project-repo)
 
-### 🌐 Project 3: Portfolio Website
-**Tech Stack:** React, Tailwind CSS, Framer Motion  
-**Description:** A modern, responsive portfolio website showcasing my projects and skills with smooth animations.  
-**Features:** 🎭 Smooth Animations, 📱 Mobile-First Design, 🚀 Fast Loading, ✨ Interactive Elements  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=netlify)](https://your-demo-link.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/salahmed1/project-repo)
-
+### 🌐 Personal Portfolio Website
+**Tech Stack:** React, Vite, CSS Modules, Netlify (CI/CD)  
+**Description:** A dynamic, fully responsive portfolio with a futuristic neon aesthetic, migrated from vanilla JS to a modular React architecture.  
+**Features:** 🧩 Modular Architecture, 📱 Fully Responsive, 🚀 Performance Optimized, ✨ Interactive UI  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=netlify)]([YOUR_NETLIFY_URL_HERE](https://salahmed.netlify.app/)) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)]([YOUR_GITHUB_REPO_URL_HERE](https://github.com/salahmed1/react-portfolio))
 ---
 
 
