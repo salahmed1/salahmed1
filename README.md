@@ -73,7 +73,7 @@ I'm a passionate Full-Stack Developer from Morocco 🇲🇦, dedicated to creati
 
 ## 🚀 Featured Projects
 
-### 🛒 Project: E-Commerce Platform
+### 🛒 E-Commerce Platform
 
 **Tech Stack:** React, Redux, Node.js, Express, MongoDB, Stripe
 
