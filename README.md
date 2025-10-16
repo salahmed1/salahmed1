@@ -87,18 +87,6 @@ I'm a passionate Full-Stack Developer from Morocco 🇲🇦, dedicated to creati
 
 ---
 
-### 📱 Project 2: Task Management App
-<!-- Add a cool screenshot or GIF of your project here! -->
-<!-- ![Task App Demo](./images/task-app-demo.gif) -->
-
-**Tech Stack:** React, Firebase, Material-UI  
-**Description:** A collaborative task management application designed to explore real-time database functionality with Firebase. Allows for team collaboration, progress tracking, and instant updates across all users.  
-**Features:** ⚡ Real-time Updates, 👥 Team Collaboration, 📊 Progress Tracking, 🎨 Beautiful UI  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=netlify)](REPLACE_WITH_YOUR_TASK_APP_DEMO_LINK) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](REPLACE_WITH_YOUR_TASK_APP_REPO_LINK)
-
----
-
 ### 🌐 Personal Portfolio Website
 <!-- Add a cool screenshot or GIF of your project here! -->
 <!-- ![Portfolio Demo](./images/portfolio-demo.gif) -->
