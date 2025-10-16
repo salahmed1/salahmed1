@@ -73,14 +73,17 @@ I'm a passionate Full-Stack Developer from Morocco 🇲🇦, dedicated to creati
 
 ## 🚀 Featured Projects
 
-### 🎨 Project 1: E-Commerce Platform
-<!-- Add a cool screenshot or GIF of your project here! -->
-<!-- ![E-Commerce Platform Demo](./images/ecommerce-demo.gif) -->
+### 🛒 Project: E-Commerce Platform
 
-**Tech Stack:** React, Node.js, MongoDB, Stripe API  
-**Description:** A full-featured e-commerce platform built to master complex state management and secure payment processing. Features user authentication, a shopping cart, a full admin dashboard, and Stripe integration.  
-**Features:** 🛒 Shopping Cart, 💳 Payment Integration, 📱 Responsive Design, 🔐 Secure Authentication  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=netlify)](REPLACE_WITH_YOUR_ECOMMERCE_DEMO_LINK) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](REPLACE_WITH_YOUR_ECOMMERCE_REPO_LINK)
+**Tech Stack:** React, Redux, Node.js, Express, MongoDB, Stripe
+
+**Description:** A complete, futuristic MERN stack e-commerce platform built from the ground up. It features a full user-facing storefront, secure payments with Stripe, and a comprehensive admin dashboard for managing products, orders, and users.
+
+**Features:** 🔐 Secure Authentication, 🛒 Full Shopping Cart, 💳 Stripe Payment Integration, 🛡️ Admin Management Dashboard
+
+<!-- ACTION REQUIRED: Replace the placeholder URLs below with your actual links! -->
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=netlify)](REPLACE_WITH_YOUR_TASK_APP_DEMO_LINK)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github)]([https://github.com/YourUsername/your-repository-name](https://github.com/salahmed1/mern-ecommerce-platform))
 
 ---
 
@@ -91,7 +94,8 @@ I'm a passionate Full-Stack Developer from Morocco 🇲🇦, dedicated to creati
 **Tech Stack:** React, Firebase, Material-UI  
 **Description:** A collaborative task management application designed to explore real-time database functionality with Firebase. Allows for team collaboration, progress tracking, and instant updates across all users.  
 **Features:** ⚡ Real-time Updates, 👥 Team Collaboration, 📊 Progress Tracking, 🎨 Beautiful UI  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=netlify)](REPLACE_WITH_YOUR_TASK_APP_DEMO_LINK) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](REPLACE_WITH_YOUR_TASK_APP_REPO_LINK)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=netlify)](REPLACE_WITH_YOUR_TASK_APP_DEMO_LINK) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](REPLACE_WITH_YOUR_TASK_APP_REPO_LINK)
 
 ---
 
@@ -102,7 +106,8 @@ I'm a passionate Full-Stack Developer from Morocco 🇲🇦, dedicated to creati
 **Tech Stack:** React, Vite, CSS Modules, Netlify (CI/CD)  
 **Description:** A dynamic, fully responsive portfolio with a futuristic neon aesthetic, migrated from vanilla JS to a modular and performant React architecture.  
 **Features:** 🧩 Modular Architecture, 📱 Fully Responsive, 🚀 Performance Optimized, ✨ Interactive UI  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=netlify)](https://salahmed.netlify.app/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/salahmed1/react-portfolio)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=netlify)](https://salahmed.netlify.app/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/salahmed1/react-portfolio)
 
 
 
