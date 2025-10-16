@@ -83,7 +83,7 @@ I'm a passionate Full-Stack Developer from Morocco 🇲🇦, dedicated to creati
 
 <!-- ACTION REQUIRED: Replace the placeholder URLs below with your actual links! -->
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-success?style=for-the-badge&logo=netlify)](REPLACE_WITH_YOUR_TASK_APP_DEMO_LINK)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github)]([https://github.com/YourUsername/your-repository-name](https://github.com/salahmed1/mern-ecommerce-platform))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/salahmed1/mern-ecommerce-platform)
 
 ---
 
