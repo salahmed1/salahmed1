@@ -1,18 +1,50 @@
-<h1 align="center">Hi, I'm Mohamed SALAHDINE! 👋</h1>
-
+<h1 align="center">👋 Hi, I'm Mohamed SALAHDINE</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AyoubEssadek/AyoubEssadek/main/developer.gif" alt="Developer GIF" width="300"/>
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></a>
+  <b>💻 Software Developer | 🌐 Full-Stack Enthusiast | 🚀 Lifelong Learner</b>
 </p>
 
-I am a dedicated and detail-oriented software developer with a strong foundation in computer science principles, including algorithms, data structures, and OOP. My training follows a comprehensive roadmap focused on building robust, scalable backend systems with C# and the .NET ecosystem.
+---
 
-To complement my backend skills, I have hands-on experience in full-stack web development, creating dynamic and responsive user interfaces with modern technologies like React, PHP (Laravel), and Python. I am passionate about solving complex problems and committed to writing clean, efficient, and maintainable code.
+### 👨‍💻 About Me  
+
+I’m a **dedicated and detail-oriented software developer** with a strong foundation in **computer science fundamentals**, including **algorithms, data structures, and object-oriented programming (OOP)**.  
+
+My training follows a **structured and practical roadmap** focused on building **robust, scalable backend systems** using **C# and the .NET ecosystem**.  
+
+To complement my backend expertise, I have hands-on experience in **full-stack web development**, crafting **dynamic, responsive**, and **user-friendly interfaces** with modern technologies like **React** and **Laravel (PHP)**.  
+
+I’m passionate about **solving complex problems**, **writing clean, efficient code**, and continuously **learning and improving** to stay ahead in the fast-paced tech world.
+
+---
+
+### 🛠️ Tech Stack  
+
+My skills combine backend logic, frontend interactivity, and strong software development principles.  
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,php,laravel,react,js,html,css,bootstrap,mysql,mongodb,git,linux,figma&perline=5" />
+  </a>
+</p>
+
+---
+
+### 🌟 What I’m Currently Doing  
+- 🚧 Building full-stack projects to strengthen my GitHub portfolio  
+- 🔍 Exploring **.NET**, **React**, and **database design patterns**  
+- 📘 Improving my knowledge of **clean architecture** and **software design principles**
+
+---
+
+### 📫 Connect with Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/mohamed-salahdine"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+  <a href="mailto:salahmed.official@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" /></a>
+  <a href="https://github.com/salahmed1"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
+</p>
