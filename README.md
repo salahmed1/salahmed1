@@ -13,29 +13,6 @@
   <a href="#"><img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></a>
 </p>
 
-I'm a versatile Full-Stack Web Developer 🚀. Think of me as a digital solutions architect 💡, building robust and scalable applications with precision and a passion for clean code. Just as an architect designs a building to be both functional and aesthetic, I craft code by seamlessly blending technologies to transform innovative ideas into high-performing products that deliver real value to users ✨. Accustomed to Agile methodologies, I'm always searching for new ways to build exceptional digital experiences 👨‍💻.
+I am a dedicated and detail-oriented software developer with a strong foundation in computer science principles, including algorithms, data structures, and OOP. My training follows a comprehensive roadmap focused on building robust, scalable backend systems with C# and the .NET ecosystem.
 
-```javascript
-class FullStackDeveloper {
-  constructor() {
-    this.name = "Mohamed SALAHDINE";
-    this.specialization = "Transforming ideas into high-performing and scalable solutions";
-    this.methodology = "Agile";
-  }
-
-  skills() {
-    return {
-      "languages": ["JavaScript (ES6+)", "TypeScript", "HTML5", "CSS3", "C++", "Python"],
-      "frontEnd": ["React", "Next.js", "Vue.js", "Bootstrap", "Tailwind CSS"],
-      "backEnd": ["Node.js", "Express.js", "Laravel", "Django", "Spring Boot", "JEE"],
-      "databases": ["MySQL", "MongoDB", "Firebase"],
-      "cloudAndDevOps": ["Docker", "Git/GitHub", "Jenkins (CI/CD)", "AWS (Initiation)"],
-      "modelingAndTools": ["Agile", "UML", "MERISE"]
-    };
-  }
-
-  build(idea) {
-    console.log(`Building an innovative product for: ${idea}`);
-    return "🚀 A solution with high added value for users!";
-  }
-}
+To complement my backend skills, I have hands-on experience in full-stack web development, creating dynamic and responsive user interfaces with modern technologies like React, PHP (Laravel), and Python. I am passionate about solving complex problems and committed to writing clean, efficient, and maintainable code.
