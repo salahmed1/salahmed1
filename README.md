@@ -1,14 +1,7 @@
 <h1 align="center">👋 Hi, I'm Mohamed SALAHDINE</h1>
 
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/AyoubEssadek/AyoubEssadek/main/developer.gif" alt="Developer GIF" width="300"/>
-</p>
+<h2 align="center">💻 Software Developer | 🌐 Full-Stack Enthusiast | 🚀 Lifelong Learner</h2>
 
-<p align="center">
-  <h3 align="center"><b>💻 Software Developer | 🌐 Full-Stack Enthusiast | 🚀 Lifelong Learner</b></h3>
-</p>
-
----
 
 ### 👨‍💻 About Me  
 
