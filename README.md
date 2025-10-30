@@ -46,5 +46,4 @@ My skills combine backend logic, frontend interactivity, and strong software dev
 <p align="center">
   <a href="https://linkedin.com/in/mohamed-salahdine"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
   <a href="mailto:salahmed.official@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" /></a>
-  <a href="https://github.com/salahmed1"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
 </p>
