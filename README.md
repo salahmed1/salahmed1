@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Mohamed SALAHDINE</h1>
 
-<p align="center">
+<h3 align="center">
   <img src="https://raw.githubusercontent.com/AyoubEssadek/AyoubEssadek/main/developer.gif" alt="Developer GIF" width="300"/>
 </p>
 
 <p align="center">
-  <b>💻 Software Developer | 🌐 Full-Stack Enthusiast | 🚀 Lifelong Learner</b>
+  <h3 align="center"><b>💻 Software Developer | 🌐 Full-Stack Enthusiast | 🚀 Lifelong Learner</b></h3>
 </p>
 
 ---
